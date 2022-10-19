@@ -1,0 +1,27 @@
+[
+    {
+        "id": "51b061f3-4762-42dc-ad5c-aa80b3f98800",
+        "descripcion": "Recolectar las piedras del infinito",
+        "completadoEn": null
+    },
+    {
+        "id": "3bca688a-a407-45c6-ae49-9972603c1206",
+        "descripcion": "Tiempo",
+        "completadoEn": "2022-10-19T04:20:49.912Z"
+    },
+    {
+        "id": "5d32de4d-c8ae-48d3-92c3-7cb2df9d91bc",
+        "descripcion": "Alma",
+        "completadoEn": "2022-10-19T04:29:08.055Z"
+    },
+    {
+        "id": "1d900bc7-43e6-4f23-86a2-5287b181c1f7",
+        "descripcion": "Realidad",
+        "completadoEn": "2022-10-19T04:29:08.055Z"
+    },
+    {
+        "id": "e96438b8-3932-4639-b298-99c9facf7f0c",
+        "descripcion": "Mente",
+        "completadoEn": "2022-10-19T04:29:08.055Z"
+    }
+]
